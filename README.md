@@ -51,7 +51,7 @@ I'm looking to connect with like-minded professionals and explore new career opp
 
 - 📧 Email: mahmoudmouzoun1@gmail.com
 - 🌍 [Portfolio](https://mahmoud-mouzoun-portfolio.vercel.app/)
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-mouzoun-2177481b7/)
 - 👾 [GitHub](https://github.com/Mahmoud-Mh)
 
 ---
