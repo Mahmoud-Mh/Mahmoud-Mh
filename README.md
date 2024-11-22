@@ -87,7 +87,7 @@ I thrive in **team-driven environments**, solving complex challenges, and explor
 
 ## 📫 **Connect with Me**
 
-📧 **Email**: [mahmoudmouzoun1@gmail.com](mailto:mahmoudmouzoun1@gmail.com)  
+📧 **Email**: [mahmoudmouzoun1@gmail.com](mailto:mahmoud.mouzoun@epitech.eu)  
 🌍 **Portfolio**: [My Portfolio](https://mahmoud-mouzoun-portfolio.vercel.app/)  
 💼 **LinkedIn**: [Mahmoud Mouzoun](https://www.linkedin.com/in/mahmoud-mouzoun-2177481b7/)  
 👾 **GitHub**: [Mahmoud-Mh](https://github.com/Mahmoud-Mh)
