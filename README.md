@@ -4,27 +4,30 @@
 
 ---
 
-**Welcome to my GitHub!**  
-I’m Mahmoud Mouzoun, a detail-oriented professional with expertise in **project management**, **software development**, and **data analysis**. Currently pursuing my **Master’s in Information Systems Architecture** at EPITECH Montpellier, I’m passionate about leveraging technology to solve real-world problems.
+👋 **Welcome to my GitHub!**  
+I’m Mahmoud Mouzoun, a **tech enthusiast** passionate about **project management**, **software development**, and **data analysis**. Currently pursuing my **Master’s in Information Systems Architecture** at *EPITECH Montpellier*, I aim to harness technology to solve real-world challenges.  
 
-🚀 **Seeking opportunities** in data analysis, software development, and full-stack engineering. Let’s create something amazing together!
+🚀 **Looking for opportunities** in data analysis, software development, and full-stack engineering. Let’s build something extraordinary together!  
 
 ---
 
 ## 👨‍💻 **About Me**
 
-📍 Based in **Sète, France**, I’m balancing academics with hands-on experience in tech projects. My journey reflects:  
-💡 **Innovation in development**: Building robust full-stack solutions.  
-📊 **Data fluency**: Transforming raw data into actionable insights.  
-📈 **Leadership in projects**: Applying Agile and Kanban to deliver excellence.  
+📍 **Based in Sète, France**  
+🎓 Balancing **academics** with hands-on **tech projects**  
 
-I thrive in **team-driven environments**, solving complex challenges, and exploring cutting-edge technologies.  
+Here’s what defines me:  
+💡 **Innovative Developer**: Crafting robust full-stack solutions.  
+📊 **Data Enthusiast**: Turning raw data into impactful insights.  
+📈 **Project Leader**: Driving success with Agile and Kanban.  
+
+**Passion**: I thrive in **collaborative environments**, enjoy solving complex challenges, and exploring cutting-edge tech!  
 
 ---
 
 ## 🔧 **Tech Stack**
 
-### **Programming Languages**  
+### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
@@ -53,17 +56,17 @@ I thrive in **team-driven environments**, solving complex challenges, and explor
 
 ---
 
-## 📈 **Experience**
+## 📈 **Professional Experience**
 
 ### **Full-Stack Developer Intern**  
 *SRIMTCom* *(June 2022 – August 2023)*  
-🔹 Designed a stock management app with intuitive UI/UX.  
-🔹 Troubleshot bugs and optimized app functionality.  
-🔹 Collaborated with cross-functional teams to meet deadlines.  
+🔹 Built a **stock management app** with an intuitive user interface.  
+🔹 Resolved bugs and enhanced app performance.  
+🔹 Collaborated with teams to deliver projects on time.  
 
 ### **Data Analyst Intern**  
 *Wilaya d’Errachidia* *(August 2023 – September 2023)*  
-🔹 Conducted IT troubleshooting and streamlined data entry.  
+🔹 Streamlined **data entry** processes and tackled IT issues.  
 🔹 Cleaned and visualized datasets for actionable insights.  
 
 ---
@@ -71,16 +74,16 @@ I thrive in **team-driven environments**, solving complex challenges, and explor
 ## 🌟 **Key Projects**
 
 ### 🎨 **Digital Resume Website**  
-📌 A dynamic web resume to showcase my skills and experiences interactively.  
+📌 A **dynamic web resume** showcasing skills and achievements.  
 🔧 *Tech Stack*: React, HTML, CSS, Vercel  
-🌐 [Check it out here!](https://mahmoud-mouzoun-portfolio.vercel.app/)  
+🌐 [Visit the Website](https://mahmoud-mouzoun-portfolio.vercel.app/)  
 
 ### 💼 **Job Board Platform**  
-📌 A platform to manage job postings with a seamless CRUD interface.  
+📌 A platform for managing job postings with seamless CRUD operations.  
 🔧 *Tech Stack*: Node.js, Express.js, SQL, Bootstrap  
 
 ### 🎮 **Strategy Game Prototype** *(In Progress)*  
-📌 Building a game prototype with OOP principles.  
+📌 Developing a **game prototype** using OOP principles.  
 🔧 *Tech Stack*: JavaFX, AWT  
 
 ---
@@ -90,10 +93,11 @@ I thrive in **team-driven environments**, solving complex challenges, and explor
 📧 **Email**: [mahmoudmouzoun1@gmail.com](mailto:mahmoud.mouzoun@epitech.eu)  
 🌍 **Portfolio**: [My Portfolio](https://mahmoud-mouzoun-portfolio.vercel.app/)  
 💼 **LinkedIn**: [Mahmoud Mouzoun](https://www.linkedin.com/in/mahmoud-mouzoun-2177481b7/)  
-👾 **GitHub**: [Mahmoud-Mh](https://github.com/Mahmoud-Mh)
+👾 **GitHub**: [Mahmoud-Mh](https://github.com/Mahmoud-Mh)  
 
 ---
 
-🌟 Let’s collaborate! Drop me a message, and let’s work together on something awesome.
+🌟 **Let’s Collaborate**  
+Drop me a message, and let’s create something awesome together!  
 
---- 
+---
