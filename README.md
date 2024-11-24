@@ -28,30 +28,30 @@ Here’s what defines me:
 ## 🔧 **Tech Stack**
 
 ### **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 
 ### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### **Data Analysis**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
 ### **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### **Collaboration Tools**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-0078D4?logo=microsoft-teams&logoColor=white)
 
 ---
