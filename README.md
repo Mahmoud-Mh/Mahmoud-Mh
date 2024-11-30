@@ -87,7 +87,6 @@ Developing a functional strategy game prototype based on OOP principles.
 💼 [**LinkedIn**](https://www.linkedin.com/in/mahmoud-mouzoun-2177481b7/)  
 
 
-[divider](https://user-images.githubusercontent.com/73215335/174876216-4a5d2e23-8161-4c0f-b3fc-3e490f63ab09.png)
 
 ✨ Let’s build something extraordinary together! ✨
 
