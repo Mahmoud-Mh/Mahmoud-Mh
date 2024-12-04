@@ -4,7 +4,6 @@
 # 🚀 **Mahmoud Mouzoun**  
 ### *Full-Stack Developer | Data Analyst |*
 
-![divider](https://user-images.githubusercontent.com/73215335/174876216-4a5d2e23-8161-4c0f-b3fc-3e490f63ab09.png)
 
 🎓 **Pursuing a Master’s in Information Systems Architecture** (3rd Year Student) @ *EPITECH Montpellier*  
 🌍 **Based in:** France  
