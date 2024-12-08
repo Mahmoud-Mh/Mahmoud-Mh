@@ -11,6 +11,24 @@
 
 ---
 
+
+## ✨ **About Me**
+
+Hi, I’m **Mahmoud Mouzoun**!  
+
+I specialize in crafting intuitive, scalable, and data-driven applications. With a focus on both front-end and back-end development, I enjoy transforming complex challenges into user-friendly solutions. I’m also deeply passionate about continuous learning and staying on the cutting edge of technology.
+
+🎯 **Languages**:  
+- 🇬🇧 **English** (C2 - Fluent)  
+- 🇫🇷 **French** (C1 - Professional Proficiency)
+
+💡 **Core Values**:  
+- 🧠 **Problem Solver**: Turning complexity into clarity.  
+- 🤝 **Team Player**: Thrives in Agile, collaborative workflows.  
+- 📚 **Lifelong Learner**: Always eager to explore new technologies.
+
+---
+
 <div align="center">
 
 ### 🛠 **My Tech Stack**
@@ -64,22 +82,16 @@
 
 ---
 
-## ✨ **About Me**
+## 🏫 **School Organization Contributions**
 
-Hi, I’m **Mahmoud Mouzoun**!  
+<div align="center">
 
-I specialize in crafting intuitive, scalable, and data-driven applications. With a focus on both front-end and back-end development, I enjoy transforming complex challenges into user-friendly solutions. I’m also deeply passionate about continuous learning and staying on the cutting edge of technology.
+### Contribution Overview at [EpitechMscProPromo2027](https://github.com/EpitechMscProPromo2027)
 
-🎯 **Languages**:  
-- 🇬🇧 **English** (C2 - Fluent)  
-- 🇫🇷 **French** (C1 - Professional Proficiency)
-
-💡 **Core Values**:  
-- 🧠 **Problem Solver**: Turning complexity into clarity.  
-- 🤝 **Team Player**: Thrives in Agile, collaborative workflows.  
-- 📚 **Lifelong Learner**: Always eager to explore new technologies.
+![Organization Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Mh&theme=react-dark&bg_color=1F1F1F&hide_border=true&area=true&custom_title=Contributions%20in%20EpitechMscProPromo2027)
 
 ---
+
 
 ## 📂 **Highlighted Projects**
 
@@ -122,3 +134,7 @@ Developing a strategy game prototype with an object-oriented approach.
 ✨ Let’s build something extraordinary together! ✨
 
 </div>
+
+
+
+
