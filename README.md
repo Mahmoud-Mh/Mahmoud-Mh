@@ -1,9 +1,7 @@
-
 <div align="center">
 
 # 🚀 **Mahmoud Mouzoun**  
 ### *Full-Stack Developer | Data Analyst |*
-
 
 🎓 **Pursuing a Master’s in Information Systems Architecture** (3rd Year Student) @ *EPITECH Montpellier*  
 🌍 **Based in:** France  
@@ -17,6 +15,10 @@
 
 ### 🛠 **My Tech Stack**
 
+<table>
+<tr>
+<td valign="top">
+
 #### 🌐 **Front-End Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -24,7 +26,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
 
 #### 🔧 **Back-End Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -45,6 +46,19 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)
+
+</td>
+<td valign="top" align="center">
+
+### 📊 **GitHub Stats**
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Mh&layout=compact&theme=react&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Mh&show_icons=true&theme=react&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 </div>
 
