@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 **Mahmoud Mouzoun**  
-### *Full-Stack Developer | Data Analyst |*
+### *Full-Stack Developer |*
 
 🎓 **Pursuing a Master’s in Information Systems Architecture** (3rd Year Student) @ *EPITECH Montpellier*  
 🌍 **Based in:** France  
