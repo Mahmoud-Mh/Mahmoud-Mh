@@ -5,7 +5,11 @@
 
 🎓 **Pursuing a Master’s in Information Systems Architecture** (3rd Year Student) @ *EPITECH Montpellier*  
 🌍 **Based in:** France  
-💼 **Available for alternance opportunities starting January 2025**  
+💼 **Available for apprenticeship opportunities starting January 2025**  
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mahmoud-Mh" alt="Mahmoud-Mh" />
+</p>
 
 </div>
 
