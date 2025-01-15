@@ -3,7 +3,7 @@
 # 🚀 **Mahmoud Mouzoun**  
 ### *Full-Stack Developer*
 
-🎓 **Pursuing a Master’s in Information Systems Architecture** (3rd Year Student) @ *EPITECH Montpellier*  
+🎓 **Master’s in Information Systems Architecture** (3rd Year) @ *EPITECH Montpellier*  
 🌍 **Based in:** France  
 💼 **Available for apprenticeship opportunities starting January 2025**  
 
@@ -15,41 +15,42 @@
 
 ---
 
-
 ## ✨ **About Me**
 
 Hi, I’m **Mahmoud Mouzoun**!  
 
-I specialize in crafting intuitive, scalable, and data-driven applications. With a focus on both front-end and back-end development, I enjoy transforming complex challenges into user-friendly solutions. I’m also deeply passionate about continuous learning and staying on the cutting edge of technology.
+I specialize in crafting innovative, scalable, and user-friendly web applications. Passionate about problem-solving and continuous learning, I thrive on tackling challenges and delivering impactful solutions. I'm seeking opportunities to grow and contribute to transformative projects.  
 
-🎯 **Languages**:  
-- 🇬🇧 **English** (C2 - Fluent)  
-- 🇫🇷 **French** (C1 - Professional Proficiency)
+### 🎯 **Languages**
+- 🇬🇧 **English**: C2 - Fluent  
+- 🇫🇷 **French**: C1 - Professional Proficiency  
+- 🌍 **Arabic** & **Tachelhit**: Native  
 
-💡 **Core Values**:  
-- 🧠 **Problem Solver**: Turning complexity into clarity.  
-- 🤝 **Team Player**: Thrives in Agile, collaborative workflows.  
-- 📚 **Lifelong Learner**: Always eager to explore new technologies.
+### 💡 **Core Values**
+- 🧠 **Problem Solver**: Transforming complexity into clarity.  
+- 🤝 **Collaborative Teammate**: Advocating for Agile workflows.  
+- 📖 **Lifelong Learner**: Eager to explore cutting-edge technologies.
 
 ---
 
 <div align="center">
 
-### 🛠 **My Tech Stack**
+### 🛠️ **Tech Stack**
 
 <table>
 <tr>
 <td valign="top">
 
-#### 🌐 **Front-End Development**
+#### 🌐 **Front-End**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-#### 🔧 **Back-End Development**
+#### 🔧 **Back-End**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
@@ -58,18 +59,16 @@ I specialize in crafting intuitive, scalable, and data-driven applications. With
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-#### 📊 **Data Analysis & Visualization**
+#### 📊 **Data & Databases**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### 🛠 **Tools**
+#### 🛠️ **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)
 
 </td>
 <td valign="top" align="center">
@@ -86,33 +85,34 @@ I specialize in crafting intuitive, scalable, and data-driven applications. With
 
 </div>
 
-
 ---
 
-## 🏫 **School Organization Contributions**
+## 🎓 **Education**
 
-<div align="center">
-
-### Contribution Overview at [EpitechMscProPromo2027](https://github.com/EpitechMscProPromo2027)
-
-![Organization Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Mh&theme=react-dark&bg_color=1F1F1F&hide_border=true&area=true&custom_title=Contributions%20in%20EpitechMscProPromo2027)
+- 🎓 **Master’s in Information Systems Architecture** *(2023-2027)* @ *Epitech Montpellier*  
+- 🎓 **Professional Bachelor’s in Big Data** *(2022)* @ *ENSA*  
+- 🎓 **BTS Informatique** *(2022)* @ *Ordiciel*
 
 ---
-
 
 ## 📂 **Highlighted Projects**
 
+
+### 📚 **IRC Communication Platform**  *(In Progress)* 
+A feature-rich platform for real-time communication based on the IRC protocol.  
+🔧 *Tech Stack*: React, TypeScript, MongoDB, NestJS  
+
+### 🎮 **Strategy Game Prototype**  
+A functional strategy game prototype leveraging object-oriented programming principles.  
+🔧 *Tech Stack*: Java, LibGDX  
+
+### 💼 **Task Management Platform**  
+An internal task management platform designed to enhance team efficiency.  
+🔧 *Tech Stack*: Django, PostgreSQL, Bootstrap  
+
 ### 🎨 [**Digital Resume**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
 An interactive, modern platform showcasing my skills and experience.  
-🔧 *Tech Stack*: React, HTML, CSS, Vercel  
-
-### 💼 **Job Board Platform**  
-A CRUD-enabled job posting platform with authentication.  
-🔧 *Tech Stack*: Node.js, Express.js, SQL, REST API, Bootstrap  
-
-### 🎮 **Strategy Game Prototype** *(In Progress)*  
-Developing a strategy game prototype with an object-oriented approach.  
-🔧 *Tech Stack*: JavaFX  
+🔧 *Tech Stack*: Html , React , CSS, Vercel  
 
 ---
 
@@ -120,13 +120,13 @@ Developing a strategy game prototype with an object-oriented approach.
 
 ### **Data Analyst Intern**  
 *Wilaya d’Errachidia* *(Aug 2023 – Sep 2023)*  
-- 🛠 Improved **data entry workflows** and resolved IT-related issues.  
-- 📊 Cleaned, analyzed, and visualized datasets for actionable insights.  
+- 📊 Analyzed datasets and improved workflows for efficiency.  
+- 🔧 Automated processes using **Python** *(Pandas, NumPy)*.  
 
 ### **Full-Stack Developer Intern**  
-*SRTIMCom* *(June 2023 – August 2023 & June 2022 – July 2022)*  
-- 💻 Developed and deployed a **stock management app** with a user-friendly UI.  
-- 🔧 Optimized app performance for seamless operations.  
+*SRTIMCom* *(2022-2023)*  
+- 💻 Developed apps with Django, and MySQL.  
+- 🔧 Implemented efficient CRUD operations and user authentication.  
 
 ---
 
@@ -137,11 +137,6 @@ Developing a strategy game prototype with an object-oriented approach.
 📧 [**Email**](mailto:mahmoud.mouzoun@epitech.eu)  
 🌍 [**Portfolio**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/mahmoud-mouzoun-2177481b7/)  
-
-✨ Let’s build something extraordinary together! ✨
+✨ [**GitHub**](https://github.com/Mahmoud-Mh)
 
 </div>
-
-
-
-
