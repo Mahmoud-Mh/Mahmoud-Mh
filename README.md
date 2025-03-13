@@ -89,8 +89,8 @@ I specialize in crafting innovative, scalable, and user-friendly web application
 
 ## 🎓 **Education**
 
-- 🎓 **Master’s in Information Systems Architecture** *(2023-2027)* @ *Epitech Montpellier*  
-- 🎓 **Professional Bachelor’s in Big Data** *(2022)* @ *ENSA*  
+- 🎓 **Master’s in Information Systems Architecture** *(2024-2027)* @ *Epitech Montpellier*  
+- 🎓 **Professional Bachelor’s in Big Data** *(2023)* @ *ENSA*  
 - 🎓 **BTS Informatique** *(2022)* @ *Ordiciel*
 
 ---
