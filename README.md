@@ -95,26 +95,6 @@ Spécialisé dans le développement d’applications web innovantes, évolutives
 
 ---
 
-## 📂 **Projets phares**
-
-### 📚 **Plateforme de communication IRC**  
-Plateforme de messagerie temps réel inspirée du protocole IRC.  
-🔧 *Stack* : React, TypeScript, MongoDB, NestJS  
-
-### 🎮 **Prototype de jeu de stratégie**  
-Prototype fonctionnel basé sur les principes de la POO.  
-🔧 *Stack* : Java, LibGDX  
-
-### 💼 **Plateforme de gestion de tâches**  
-Outil interne pour améliorer la productivité des équipes.  
-🔧 *Stack* : Django, PostgreSQL, Bootstrap  
-
-### 🎨 [**CV interactif**](https://mahmoud-mouzoun-ghz9.vercel.app/)  
-Site vitrine moderne présentant mes compétences et expériences.  
-🔧 *Stack* : HTML, React, CSS, Vercel  
-
----
-
 ## 📈 **Expériences professionnelles**
 
 ### **Stagiaire Data Analyst**  
@@ -134,7 +114,7 @@ Site vitrine moderne présentant mes compétences et expériences.
 ## 🌐 **Restons en contact**
 
 📧 [**Email**](mailto:mahmoud.mouzoun@epitech.eu)  
-🌍 [**Portfolio**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
+🌍 [**Portfolio**](https://mahmoud-mouzoun-ghz9.vercel.app/)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/mahmoud-mouzoun-2177481b7/)  
 ✨ [**GitHub**](https://github.com/Mahmoud-Mh)
 
