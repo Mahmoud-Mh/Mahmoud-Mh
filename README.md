@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🚀 **Mahmoud Mouzoun**  
-### *Full-Stack Developer*
+### *Développeur Full-Stack*
 
-🎓 **Master’s in Information Systems Architecture** (3rd Year) @ *EPITECH Montpellier*  
-🌍 **Based in:** France  
-💼 **Available for apprenticeship opportunities starting August 2025**  
+🎓 **Master en Architecture des Systèmes d'Information** (3e année) @ *EPITECH Montpellier*  
+🌍 **Basé en :** France  
+💼 **Disponible pour une alternance à partir d’août 2025**  
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Mahmoud-Mh" alt="Mahmoud-Mh" />
@@ -15,27 +15,27 @@
 
 ---
 
-## ✨ **About Me**
+## ✨ **À propos de moi**
 
-Hi, I’m **Mahmoud Mouzoun**!  
+Salut, je suis **Mahmoud Mouzoun** !  
 
-I specialize in crafting innovative, scalable, and user-friendly web applications. Passionate about problem-solving and continuous learning, I thrive on tackling challenges and delivering impactful solutions. I'm seeking opportunities to grow and contribute to transformative projects.  
+Spécialisé dans le développement d’applications web innovantes, évolutives et centrées sur l’utilisateur. Passionné par la résolution de problèmes et l’apprentissage continu, je cherche à contribuer à des projets à fort impact.  
 
-### 🎯 **Languages**
-- 🇬🇧 **English**: C2 - Fluent  
-- 🇫🇷 **French**: C1 - Professional Proficiency  
-- 🌍 **Arabic** & **Tachelhit**: Native  
+### 🎯 **Langues**
+- 🇬🇧 **Anglais** : C2 – Courant  
+- 🇫🇷 **Français** : C1 – Professionnel  
+- 🌍 **Arabe** & **Tachelhit** : Langues maternelles  
 
-### 💡 **Core Values**
-- 🧠 **Problem Solver**: Transforming complexity into clarity.  
-- 🤝 **Collaborative Teammate**: Advocating for Agile workflows.  
-- 📖 **Lifelong Learner**: Eager to explore cutting-edge technologies.
+### 💡 **Valeurs**
+- 🧠 **Résolution de problèmes** : Transformer la complexité en solutions claires.  
+- 🤝 **Travail d’équipe** : Adeptes des méthodes Agile et du travail collaboratif.  
+- 📖 **Curiosité continue** : En veille permanente sur les nouvelles technologies.
 
 ---
 
 <div align="center">
 
-### 🛠️ **Tech Stack**
+### 🛠️ **Technologies maîtrisées**
 
 <table>
 <tr>
@@ -59,25 +59,25 @@ I specialize in crafting innovative, scalable, and user-friendly web application
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-#### 📊 **Data & Databases**
+#### 📊 **Données & Bases de Données**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### 🛠️ **Tools**
+#### 🛠️ **Outils**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 </td>
 <td valign="top" align="center">
 
-### 📊 **GitHub Stats**
+### 📊 **Statistiques GitHub**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Mh&layout=compact&theme=react&hide_border=true)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Mh&layout=compact&theme=react&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Mh&show_icons=true&theme=react&hide_border=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Mahmoud-Mh&show_icons=true&theme=react&hide_border=true)
 
 </td>
 </tr>
@@ -87,52 +87,51 @@ I specialize in crafting innovative, scalable, and user-friendly web application
 
 ---
 
-## 🎓 **Education**
+## 🎓 **Parcours académique**
 
-- 🎓 **Master’s in Information Systems Architecture** *(2024-2027)* @ *Epitech Montpellier*  
-- 🎓 **Professional Bachelor’s in Big Data** *(2023)* @ *ENSA*  
+- 🎓 **Master Architecture des Systèmes d'Information** *(2024–2027)* @ *Epitech Montpellier*  
+- 🎓 **Licence Professionnelle Big Data** *(2023)* @ *ENSA*  
 - 🎓 **BTS Informatique** *(2022)* @ *Ordiciel*
 
 ---
 
-## 📂 **Highlighted Projects**
+## 📂 **Projets phares**
 
+### 📚 **Plateforme de communication IRC**  
+Plateforme de messagerie temps réel inspirée du protocole IRC.  
+🔧 *Stack* : React, TypeScript, MongoDB, NestJS  
 
-### 📚 **IRC Communication Platform**  *(In Progress)* 
-A feature-rich platform for real-time communication based on the IRC protocol.  
-🔧 *Tech Stack*: React, TypeScript, MongoDB, NestJS  
+### 🎮 **Prototype de jeu de stratégie**  
+Prototype fonctionnel basé sur les principes de la POO.  
+🔧 *Stack* : Java, LibGDX  
 
-### 🎮 **Strategy Game Prototype**  
-A functional strategy game prototype leveraging object-oriented programming principles.  
-🔧 *Tech Stack*: Java, LibGDX  
+### 💼 **Plateforme de gestion de tâches**  
+Outil interne pour améliorer la productivité des équipes.  
+🔧 *Stack* : Django, PostgreSQL, Bootstrap  
 
-### 💼 **Task Management Platform**  
-An internal task management platform designed to enhance team efficiency.  
-🔧 *Tech Stack*: Django, PostgreSQL, Bootstrap  
-
-### 🎨 [**Digital Resume**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
-An interactive, modern platform showcasing my skills and experience.  
-🔧 *Tech Stack*: Html , React , CSS, Vercel  
+### 🎨 [**CV interactif**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
+Site vitrine moderne présentant mes compétences et expériences.  
+🔧 *Stack* : HTML, React, CSS, Vercel  
 
 ---
 
-## 📈 **Professional Experience**
+## 📈 **Expériences professionnelles**
 
-### **Data Analyst Intern**  
-*Wilaya d’Errachidia* *(Aug 2023 – Sep 2023)*  
-- 📊 Analyzed datasets and improved workflows for efficiency.  
-- 🔧 Automated processes using **Python** *(Pandas, NumPy)*.  
+### **Stagiaire Data Analyst**  
+*Wilaya d’Errachidia* *(Août 2023 – Sep 2023)*  
+- 📊 Analyse de données et amélioration des processus internes.  
+- 🔧 Automatisation avec **Python** *(Pandas, NumPy)*.  
 
-### **Full-Stack Developer Intern**  
-*SRTIMCom* *(2022-2023)*  
-- 💻 Developed apps with Django, and MySQL.  
-- 🔧 Implemented efficient CRUD operations and user authentication.  
+### **Stagiaire Développeur Full-Stack**  
+*SRTIMCom* *(2022–2023)*  
+- 💻 Développement d’applications avec Django et MySQL.  
+- 🔐 Implémentation de systèmes d’authentification et opérations CRUD efficaces.  
 
 ---
 
 <div align="center">
 
-## 🌐 **Let’s Connect**
+## 🌐 **Restons en contact**
 
 📧 [**Email**](mailto:mahmoud.mouzoun@epitech.eu)  
 🌍 [**Portfolio**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
