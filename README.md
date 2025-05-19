@@ -109,7 +109,7 @@ Prototype fonctionnel basé sur les principes de la POO.
 Outil interne pour améliorer la productivité des équipes.  
 🔧 *Stack* : Django, PostgreSQL, Bootstrap  
 
-### 🎨 [**CV interactif**](https://mahmoud-mouzoun-portfolio.vercel.app/)  
+### 🎨 [**CV interactif**](https://mahmoud-mouzoun-ghz9.vercel.app/)  
 Site vitrine moderne présentant mes compétences et expériences.  
 🔧 *Stack* : HTML, React, CSS, Vercel  
 
